@@ -6,10 +6,7 @@
 <h3>Team Members:<br>
 511519104303 - Sakthivel J<br>
 511519104709 - Kannan N<br>
-511519104039 - Subashchandraboss M<br>
-
-    </div>
- 
+511519104039 - Subashchandraboss M<br> 
 ## Tasks Completed 
 - Project Objectives
     - [x] Project Objective<br>
